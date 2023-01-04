@@ -10,5 +10,5 @@ elif lst == 0:
     print("Last digit of {} is {} and is 0".format(number, lst))
 
 elif lst < 6 and lst != 0:
-    print("Last digit of {} is {} and is less 
-    than 6 and not 0".format(number, lst))
+    print("Last digit of {} is {} and is less than 6 and not 0"
+            .format(number, lst))
