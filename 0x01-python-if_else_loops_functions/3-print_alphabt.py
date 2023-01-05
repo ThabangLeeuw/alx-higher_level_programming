@@ -1,10 +1,10 @@
 #!/usr/bin/python3
-for i in range(97, 122):
-    if i == 101:
+for j in range(97, 122):
+    if j == 101:
         continue
 
-    elif i == 113:
+    elif j == 113:
         continue
 
     else:
-        print("{}".format(chr(i)), end="")
+        print("{}".format(chr(j)), end="")
